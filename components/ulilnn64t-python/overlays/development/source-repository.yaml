@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ulilnn64t-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ulilnn64t-python
